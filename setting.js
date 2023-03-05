@@ -20,8 +20,8 @@ global.ibengapi = 'https://api.ibeng.tech'
 
 // API Key For https://danzzapi.xyz & https://api-danzz.xyz
 global.apikey = 'YOUR APIKEY' // Get in: https://danzzapi.xyz
-global.apikeyprem = 'BELI APIKEY? CHAT: wa.me/6289512545999 / KE WEBSITE RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
-global.apikeyvip = 'BELI APIKEY? CHAT: wa.me/6289512545999 / KE WEBSITE RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
+global.apikeyprem = 'BELI NOKOS CHAT: wa.me/6281807254833 / KE GROUP RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
+global.apikeyvip = 'BELI NOKOS? CHAT: wa.me/6281807254833 / KE GROUP RESMI: https://danzzapi.xyz/pricing' // Get in: https://danzzapi.xyz
 
 // API Key For https://saipulanuar.ga
 global.saipulkey = `Warning: API saipulanuar.ga Don't use the key`
@@ -33,15 +33,15 @@ global.ibengkey = 'tamvan'
 global.sessionName = 'session'
 
 // Control
-global.botName = 'Danzz Bot'
-global.ownerName = 'Danzz Coding'
-global.ownerNumber = ['6289512545999']
+global.botName = 'BOT-2023/2024'
+global.ownerName = 'IBNU-GANZ'
+global.ownerNumber = ['6281807254833']
 global.botNumber = ['6288296339947']
-global.premiumNumber = ['6289512545999','6288296339947']
-global.packname = '2023 © Created By'
+global.premiumNumber = ['6281807254833','6288296339947']
+global.packname = '2023/2024 © Created By'
 global.author = 'www.danzzcoding.my.id'
 global.prefa = ['.']
-global.wm = '© Danzz Coding - All Rights Reserved.'
+global.wm = '© IBNU edit:v - All Rights Reserved.'
 global.menustyle = '>'
 //global.menustyle = '•'
 
